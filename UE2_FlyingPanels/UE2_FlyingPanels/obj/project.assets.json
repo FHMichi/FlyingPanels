@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\INF\\UE2_FlyingPanels\\UE2_FlyingPanels\\UE2_FlyingPanels.csproj",
+      "projectUniqueName": "C:\\Users\\r76p10\\Documents\\test\\UE2_FlyingPanels\\UE2_FlyingPanels\\UE2_FlyingPanels.csproj",
       "projectName": "UE2_FlyingPanels",
-      "projectPath": "Z:\\INF\\UE2_FlyingPanels\\UE2_FlyingPanels\\UE2_FlyingPanels.csproj",
+      "projectPath": "C:\\Users\\r76p10\\Documents\\test\\UE2_FlyingPanels\\UE2_FlyingPanels\\UE2_FlyingPanels.csproj",
       "packagesPath": "C:\\Users\\r76p10\\.nuget\\packages\\",
-      "outputPath": "Z:\\INF\\UE2_FlyingPanels\\UE2_FlyingPanels\\obj\\",
+      "outputPath": "C:\\Users\\r76p10\\Documents\\test\\UE2_FlyingPanels\\UE2_FlyingPanels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\r76p10\\AppData\\Roaming\\NuGet\\NuGet.Config",
