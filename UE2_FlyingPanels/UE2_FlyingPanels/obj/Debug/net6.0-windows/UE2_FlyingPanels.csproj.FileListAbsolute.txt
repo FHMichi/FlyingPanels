@@ -1,0 +1,17 @@
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\bin\Debug\net6.0-windows\UE2_FlyingPanels.exe
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\bin\Debug\net6.0-windows\UE2_FlyingPanels.deps.json
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\bin\Debug\net6.0-windows\UE2_FlyingPanels.runtimeconfig.json
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\bin\Debug\net6.0-windows\UE2_FlyingPanels.dll
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\bin\Debug\net6.0-windows\UE2_FlyingPanels.pdb
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.csproj.AssemblyReference.cache
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.Form1.resources
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.csproj.GenerateResource.cache
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.GeneratedMSBuildEditorConfig.editorconfig
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.AssemblyInfoInputs.cache
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.AssemblyInfo.cs
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.csproj.CoreCompileInputs.cache
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.dll
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\refint\UE2_FlyingPanels.dll
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.pdb
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\UE2_FlyingPanels.genruntimeconfig.cache
+Z:\INF\UE2_FlyingPanels\UE2_FlyingPanels\obj\Debug\net6.0-windows\ref\UE2_FlyingPanels.dll
